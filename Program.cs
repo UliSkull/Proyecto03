@@ -93,8 +93,8 @@ class Program
 class Persona
 {
     public string nombre ;
-    public int edad ;
-    private int dni ;
+    private int edad ;
+    public int dni ;
 
     public Persona()
     {
@@ -117,14 +117,14 @@ class Persona
 
     }
 
-    public void setDni(int dniNuevo)
+    public void setEdad(int edadNueva)
         {
-            this.dni = dniNuevo;
+            this.edad = edadNueva;
         }
 
-        public int getDni()
+        public int getEdad()
         {
-            return this.dni;
+            return this.edad;
         }
 
     public void mostrarDatos()
@@ -132,8 +132,8 @@ class Persona
         Console.WriteLine("El nombre es : "+this.nombre);
         Console.WriteLine("La edad es : "+this.edad);
         Console.WriteLine("El DNI es : "+this.dni);
-        setDni(22222222);
-        Console.WriteLine("Pero ahora el DNI cambio a..."+getDni());
+        setEdad(80);
+        Console.WriteLine("Pero ahora la edad cambio a..."+getEdad());
 
     }
 
