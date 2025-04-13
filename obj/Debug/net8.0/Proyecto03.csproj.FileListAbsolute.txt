@@ -1,0 +1,14 @@
+C:\POO\Proyecto03\bin\Debug\net8.0\Proyecto03.exe
+C:\POO\Proyecto03\bin\Debug\net8.0\Proyecto03.deps.json
+C:\POO\Proyecto03\bin\Debug\net8.0\Proyecto03.runtimeconfig.json
+C:\POO\Proyecto03\bin\Debug\net8.0\Proyecto03.dll
+C:\POO\Proyecto03\bin\Debug\net8.0\Proyecto03.pdb
+C:\POO\Proyecto03\obj\Debug\net8.0\Proyecto03.GeneratedMSBuildEditorConfig.editorconfig
+C:\POO\Proyecto03\obj\Debug\net8.0\Proyecto03.AssemblyInfoInputs.cache
+C:\POO\Proyecto03\obj\Debug\net8.0\Proyecto03.AssemblyInfo.cs
+C:\POO\Proyecto03\obj\Debug\net8.0\Proyecto03.csproj.CoreCompileInputs.cache
+C:\POO\Proyecto03\obj\Debug\net8.0\Proyecto03.dll
+C:\POO\Proyecto03\obj\Debug\net8.0\refint\Proyecto03.dll
+C:\POO\Proyecto03\obj\Debug\net8.0\Proyecto03.pdb
+C:\POO\Proyecto03\obj\Debug\net8.0\Proyecto03.genruntimeconfig.cache
+C:\POO\Proyecto03\obj\Debug\net8.0\ref\Proyecto03.dll
